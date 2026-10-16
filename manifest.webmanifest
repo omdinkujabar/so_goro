@@ -1,0 +1,17 @@
+{
+  "name": "GORO RAK — Scanner ED & Stock Opname",
+  "short_name": "GORO RAK",
+  "description": "Cek expired date, BPOM, status stok (N/F/R/E) dan stock opname per rak.",
+  "lang": "id",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1620",
+  "theme_color": "#0E1620",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
